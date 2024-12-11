@@ -1,6 +1,6 @@
 # Family Travel Tracker
 
-![Family Travel Tracker](public/family-travel-tracker.png)
+![image](public/family-travel-tracker.png)
 
 ## Overview
 The Family Travel Tracker is a Node.js application designed to help families see countries they have visited on the map.
